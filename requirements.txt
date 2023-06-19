@@ -1,0 +1,4 @@
+jieba
+http.client
+schedule
+mysql-connector-python

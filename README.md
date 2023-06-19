@@ -1,2 +1,3 @@
 # toutiao_article
 自动化头条文章
+通过调用wordpress接口获取文章发布到头条文章
